@@ -1,6 +1,6 @@
-const string = require('./index');
+const reverse = require('./index');
 
-it('string is less than 10', () => {
-  expect(string('string')).toBe(6);
+it('string is reversed', () => {
+  expect(stringReverse('string')).toBe(stringReverse('string'));
 });
 
