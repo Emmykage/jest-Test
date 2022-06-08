@@ -1,0 +1,22 @@
+{
+  "name": "jest-test",
+  "version": "1.0.0",
+  "description": "test runner",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Emmykage/jest-Test.git"
+  },
+  "author": "menanya morris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Emmykage/jest-Test/issues"
+  },
+  "homepage": "https://github.com/Emmykage/jest-Test#readme",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}
