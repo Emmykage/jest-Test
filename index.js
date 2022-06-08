@@ -25,4 +25,4 @@ class Calculator {
     return 9 / 3
   }
 }
-export.module Calculator
+module.exports Calculator

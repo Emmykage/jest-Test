@@ -1,5 +1,5 @@
 const Calculator = require ('./index.js')
 
 describe("calculator", () =>{
-  test(Calculator,add(3,7)).toBe(10)
+  test('asum of 3 and 10',Calculator.add(3,7)).toBe(10)
 })
